@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WatchView">
+        <attr name="strokeColor" format="color" />
+        <attr name="circleBackground" format="color" />
+        <attr name="pointsColor" format="color" />
+        <attr name="numbersColor" format="color" />
+        <attr name="hourHandColor" format="color" />
+        <attr name="minuteHandColor" format="color" />
+        <attr name="secondsHandColor" format="color" />
+    </declare-styleable>
+</resources>
